@@ -1,0 +1,1705 @@
+[Cutoff]
+BelongsTo=-1
+Climb cut=0
+CodeSnip=-1
+Comment=
+Contour method=2
+Cut depth=0
+Cut direction=0.5
+Cutting rules=0
+Edge overlap=127.025400000000005
+Enabled=0
+Feed rate=1143
+Finish allowance=0
+Grid size=1270
+Hole Size=0
+ID=-1
+Layer=
+Lead in=-1
+Lead in type=0
+Lead out=-1
+Lead out type=0
+Leadins on open paths=0
+Length=1.00076
+Maximum X size=50800.025399999998626
+Maximum Y size=50800.025399999998626
+Minimum X size=12699.974599999999555
+Minimum Y size=12699.974599999999555
+Name=
+Offset open paths=0
+Optimisation=1
+Path rules=
+Plunge rate=99.974399999999989
+Remnants must be rectangular=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=RemnantOperation
+[Cutoff/Custom]
+[Misc]
+Count=59
+FileVersion=1003
+optBias=0.5
+Optimisation=0
+Template=0
+[OpOrder]
+[Part 0]
+Angle=3.141592653589793
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/svg-files/hinch.dxf
+enabled=1
+HRef=0
+Locked=1
+name=hinch
+VRef=0
+XPos=586.825640302699867
+YPos=2140.950640302649845
+[Part 0/GroupSources]
+[Part 0/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=0
+Layer=0
+Lead in=7.620000000000001
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=1
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=406.399999999999977
+Name=Outside Offset, 0, T1: Steel 1/4" 40A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 0/Operation0/Custom]
+[Part 1]
+Angle=-1.570796326794897
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/inside gusset.dxf
+enabled=1
+HRef=0
+Locked=1
+name=inside gusset
+VRef=0
+XPos=1012.625
+YPos=51.60000001142447
+[Part 1/GroupSources]
+[Part 1/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=0
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=1
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=0
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 1/Operation0/Custom]
+[Part 10]
+Angle=1.134464013796314
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/mount cylinder base plate inner.dxf
+enabled=1
+HRef=0
+Locked=0
+name=mount cylinder base plate inner
+VRef=0
+XPos=1168.160576272400249
+YPos=552.675576272499939
+[Part 10/GroupSources]
+[Part 10/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=10
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 10/Operation0/Custom]
+[Part 11]
+Angle=1.570796326794897
+copyOf=8
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=505.726258321999921
+YPos=1154.001773981599854
+[Part 11/GroupSources]
+[Part 12]
+Angle=1.570796326794897
+copyOf=2
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=653.924484340000163
+YPos=1224.140768363200095
+[Part 12/GroupSources]
+[Part 13]
+Angle=1.570796326794897
+copyOf=2
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 2
+VRef=0
+XPos=618.924484340000163
+YPos=369.140768363200095
+[Part 13/GroupSources]
+[Part 14]
+Angle=-1.570796326794897
+copyOf=2
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 3
+VRef=0
+XPos=493.924484340000163
+YPos=479.140768363200095
+[Part 14/GroupSources]
+[Part 15]
+Angle=1.570796326794897
+copyOf=2
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 4
+VRef=0
+XPos=488.924484340000163
+YPos=264.140768363200095
+[Part 15/GroupSources]
+[Part 16]
+Angle=-1.570796326794897
+copyOf=2
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 5
+VRef=0
+XPos=493.924484340000163
+YPos=1339.140768363200095
+[Part 16/GroupSources]
+[Part 17]
+Angle=1.570796326794897
+copyOf=3
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=737.173270631500145
+YPos=2035.242809495000074
+[Part 17/GroupSources]
+[Part 18]
+Angle=-1.623156204354727
+copyOf=3
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 2
+VRef=0
+XPos=632.173270631500145
+YPos=2090.242809495000074
+[Part 18/GroupSources]
+[Part 19]
+Angle=1.570796326794897
+copyOf=3
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 3
+VRef=0
+XPos=832.173270631500145
+YPos=2135.242809495000074
+[Part 19/GroupSources]
+[Part 2]
+Angle=-1.570796326794897
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/inside tine.dxf
+enabled=1
+HRef=0
+Locked=0
+name=inside tine
+VRef=0
+XPos=633.924484340000163
+YPos=584.140768363200095
+[Part 2/GroupSources]
+[Part 2/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=2
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 40A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 2/Operation0/Custom]
+[Part 20]
+Angle=1.047197551196598
+copyOf=4
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=403.580640302649954
+YPos=1283.095640302499987
+[Part 20/GroupSources]
+[Part 21]
+Angle=3.141592653589793
+copyOf=4
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 2
+VRef=0
+XPos=673.580640302649954
+YPos=1388.095640302499987
+[Part 21/GroupSources]
+[Part 22]
+Angle=0.698131700797732
+copyOf=4
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 3
+VRef=0
+XPos=548.580640302649954
+YPos=1303.095640302499987
+[Part 22/GroupSources]
+[Part 23]
+Angle=1.570796326794897
+copyOf=10
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=103.160576272400249
+YPos=1697.675576272499939
+[Part 23/GroupSources]
+[Part 24]
+Angle=1.570796326794897
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 1
+VRef=0
+XPos=100.476920908100055
+YPos=520.950640302650072
+[Part 24/GroupSources]
+[Part 25]
+Angle=3.141592653589793
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 2
+VRef=0
+XPos=534.128201513500244
+YPos=2060.950640302649845
+[Part 25/GroupSources]
+[Part 26]
+Angle=0
+copyOf=0
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 3
+VRef=0
+XPos=752.779482118899978
+YPos=1995.950640302649845
+[Part 26/GroupSources]
+[Part 27]
+Angle=0.349065850398866
+copyOf=7
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=1172.625
+YPos=1006.839999999999918
+[Part 27/GroupSources]
+[Part 28]
+Angle=3.141592653589793
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 1
+VRef=0
+XPos=1167.875
+YPos=246.60000001142447
+[Part 28/GroupSources]
+[Part 29]
+Angle=0.261799387799149
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 2
+VRef=0
+XPos=1083.125
+YPos=381.60000001142447
+[Part 29/GroupSources]
+[Part 3]
+Angle=-1.658062789394613
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/lid plate.dxf
+enabled=1
+HRef=0
+Locked=0
+name=lid plate
+VRef=0
+XPos=552.173270631500145
+YPos=1990.242809495000074
+[Part 3/GroupSources]
+[Part 3/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=3
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 3/Operation0/Custom]
+[Part 30]
+Angle=-1.570796326794897
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 3
+VRef=0
+XPos=693.375
+YPos=1111.600000011424527
+[Part 30/GroupSources]
+[Part 31]
+Angle=1.74532925199433
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 4
+VRef=0
+XPos=818.625
+YPos=2146.600000011424527
+[Part 31/GroupSources]
+[Part 32]
+Angle=0
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 5
+VRef=0
+XPos=1083.875
+YPos=1181.600000011424527
+[Part 32/GroupSources]
+[Part 33]
+Angle=0
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 6
+VRef=0
+XPos=1169.125
+YPos=106.60000001142447
+[Part 33/GroupSources]
+[Part 34]
+Angle=-1.570796326794897
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 7
+VRef=0
+XPos=689.375
+YPos=1226.600000011424527
+[Part 34/GroupSources]
+[Part 35]
+Angle=-2.617993877991494
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 8
+VRef=0
+XPos=39.625
+YPos=1276.600000011424527
+[Part 35/GroupSources]
+[Part 36]
+Angle=-0.872664625997165
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 9
+VRef=0
+XPos=519.875
+YPos=2001.600000011424527
+[Part 36/GroupSources]
+[Part 37]
+Angle=2.094395102393195
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 10
+VRef=0
+XPos=1045.125
+YPos=1711.600000011424527
+[Part 37/GroupSources]
+[Part 38]
+Angle=0
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 11
+VRef=0
+XPos=975.375
+YPos=2001.600000011424527
+[Part 38/GroupSources]
+[Part 39]
+Angle=3.141592653589793
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 12
+VRef=0
+XPos=875.625
+YPos=2006.600000011424527
+[Part 39/GroupSources]
+[Part 4]
+Angle=1.169370598836201
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/mount cylinder base plate outer.dxf
+enabled=1
+HRef=0
+Locked=0
+name=mount cylinder base plate outer
+VRef=0
+XPos=1168.580640302649954
+YPos=1388.095640302499987
+[Part 4/GroupSources]
+[Part 4/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=4
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 4/Operation0/Custom]
+[Part 40]
+Angle=1.832595714594046
+copyOf=1
+DrawingFile=
+enabled=1
+HRef=0
+Locked=1
+name=Duplicate 13
+VRef=0
+XPos=110.875
+YPos=836.600000011424527
+[Part 40/GroupSources]
+[Part 41]
+Angle=1.570796326794897
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=1116.675000000000182
+YPos=763.100000000000023
+[Part 41/GroupSources]
+[Part 42]
+Angle=1.832595714594046
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 2
+VRef=0
+XPos=1076.125
+YPos=238.100000000000023
+[Part 42/GroupSources]
+[Part 43]
+Angle=0
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 3
+VRef=0
+XPos=25.574999999999818
+YPos=53.100000000000023
+[Part 43/GroupSources]
+[Part 44]
+Angle=0
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 4
+VRef=0
+XPos=25.025000000000091
+YPos=368.100000000000023
+[Part 44/GroupSources]
+[Part 45]
+Angle=0.349065850398866
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 5
+VRef=0
+XPos=184.475000000000364
+YPos=558.100000000000023
+[Part 45/GroupSources]
+[Part 46]
+Angle=0
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 6
+VRef=0
+XPos=28.925000000000182
+YPos=1128.099999999999909
+[Part 46/GroupSources]
+[Part 47]
+Angle=1.221730476396031
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 7
+VRef=0
+XPos=103.375
+YPos=758.100000000000023
+[Part 47/GroupSources]
+[Part 48]
+Angle=0
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 8
+VRef=0
+XPos=32.825000000000273
+YPos=748.100000000000023
+[Part 48/GroupSources]
+[Part 49]
+Angle=1.570796326794897
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 9
+VRef=0
+XPos=932.275000000000091
+YPos=1088.099999999999909
+[Part 49/GroupSources]
+[Part 5]
+Angle=1.396263401595464
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/mount cylinder base rod inner.dxf
+enabled=1
+HRef=0
+Locked=0
+name=mount cylinder base rod inner
+VRef=0
+XPos=1156.99044821184998
+YPos=1789.450000000000045
+[Part 5/GroupSources]
+[Part 5/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=5
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 5/Operation0/Custom]
+[Part 50]
+Angle=0
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 10
+VRef=0
+XPos=1176.725000000000364
+YPos=1633.099999999999909
+[Part 50/GroupSources]
+[Part 51]
+Angle=-0.523598775598299
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 11
+VRef=0
+XPos=646.175000000000182
+YPos=1298.099999999999909
+[Part 51/GroupSources]
+[Part 52]
+Angle=1.570796326794897
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 12
+VRef=0
+XPos=220.625
+YPos=1473.099999999999909
+[Part 52/GroupSources]
+[Part 53]
+Angle=0
+copyOf=9
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 13
+VRef=0
+XPos=385.075000000000273
+YPos=2098.099999999999909
+[Part 53/GroupSources]
+[Part 54]
+Angle=1.570796326794897
+copyOf=6
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=477.231536726450031
+YPos=1135.799999999999955
+[Part 54/GroupSources]
+[Part 55]
+Angle=0
+copyOf=6
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 2
+VRef=0
+XPos=67.0525612107499
+YPos=1445.799999999999955
+[Part 55/GroupSources]
+[Part 56]
+Angle=0
+copyOf=6
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 3
+VRef=0
+XPos=761.873585695049769
+YPos=2045.800000000000182
+[Part 56/GroupSources]
+[Part 57]
+Angle=3.141592653589793
+copyOf=5
+DrawingFile=
+enabled=1
+HRef=0
+Locked=0
+name=Duplicate 1
+VRef=0
+XPos=411.99044821184998
+YPos=2194.449999999999818
+[Part 57/GroupSources]
+[Part 58]
+Angle=0
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/lid jaw.dxf
+enabled=1
+HRef=0
+Locked=0
+name=lid jaw
+VRef=0
+XPos=86.199999999999989
+YPos=2105.297999999999774
+[Part 58/GroupSources]
+[Part 58/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=11
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 58/Operation0/Custom]
+[Part 6]
+Angle=0
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/mount cylinder base rod outer.dxf
+enabled=1
+HRef=0
+Locked=0
+name=mount cylinder base rod outer
+VRef=0
+XPos=957.410512242149707
+YPos=265.800000000000011
+[Part 6/GroupSources]
+[Part 6/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=6
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 6/Operation0/Custom]
+[Part 7]
+Angle=2.094395102393195
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/outside gussets.dxf
+enabled=1
+HRef=0
+Locked=0
+name=outside gussets
+VRef=0
+XPos=1102.625
+YPos=841.839999999999918
+[Part 7/GroupSources]
+[Part 7/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=7
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 7/Operation0/Custom]
+[Part 8]
+Angle=-1.570796326794897
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/outside tine.dxf
+enabled=1
+HRef=0
+Locked=0
+name=outside tine
+VRef=0
+XPos=640.726258321999921
+YPos=1409.001773981599854
+[Part 8/GroupSources]
+[Part 8/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=8
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 8/Operation0/Custom]
+[Part 9]
+Angle=0
+copyOf=-1
+DrawingFile=/home/pomo/Freecad_Git/Grapples/01_Hardware/Mechanical_Parts/fabrication/dxf-files/small gussets.dxf
+enabled=1
+HRef=0
+Locked=0
+name=small gussets
+VRef=0
+XPos=1187.224999999999909
+YPos=1183.099999999999909
+[Part 9/GroupSources]
+[Part 9/Operation0]
+Angle threshold=0.9
+BelongsTo=-1
+CodeSnip=-1
+Comment=
+Contour method=1
+Cut depth=0
+Cut direction=0.5
+Cutting rules=3
+Enabled=1
+Feed rate=1143
+Finish allowance=0
+Hole Size=0
+ID=9
+Layer=0
+Lead in=5.08
+Lead in type=1
+Lead out=2.54
+Lead out type=1
+Leadins on open paths=0
+Length=1.00076
+Loop corners=0
+Loop size=0
+Max chain length=0
+Minimise thermal distortion=304.799999999999955
+Name=Outside Offset, 0, T1: Steel 1/4" 50A
+Offset open paths=0
+Optimisation=1
+Overcut=0
+Path rules=
+Plunge rate=99.974399999999989
+Reverse cut direction=0
+Reverse open paths=0
+Start depth=0
+Start position=0
+Tool=1
+Type=JetOperation
+[Part 9/Operation0/Custom]
+[pathRules]
+GlobalRule=-1
+[Table]
+MaxHeight=1000
+Origin=6
+RapidSpeed=2000
+tableOrigin=6
+TableX1=0
+TableX2=0
+TableY1=0
+TableY2=0
+ToolTime=0
+X1=0
+X2=0
+Y1=0
+Y2=0
+[Tool0]
+Comment=
+Cut height=5.08
+Feed rate=1143
+Kerf width=1.50114
+Name=Steel 1/4" 40A
+Pause at end of cut=0.3
+Pierce delay=1
+Pierce height=5.08
+Pierce type=0
+Plunge rate=15240
+Tool number=1
+Type=PlasmaTool
+Wiggle length=9.999979999999999
+[Tool0/Custom]
+[ToolChange]
+BeforeCode=
+Code=
+noSafeZ=0
+UseX=0
+UseY=0
+UseZ=0
+X=0
+Y=0
+Z=0
+[Variables]
+[Work]
+Bottom=0
+Clearance=19.049999999999997
+isPolygon=0
+Name=
+Notes=
+Origin=6
+parkCode=
+ParkUseX=0
+ParkUseY=0
+ParkUseZ=0
+ParkX=0
+ParkY=0
+ParkZ=0
+PlungeSafety=0.5
+polyLayer=0
+polyPart=0
+Show Notes=0
+Thickness=0
+X1=0
+X2=1219.199999999999818
+Y1=0
+Y2=2438.399999999999636
+[Work/keepout]
+Clamp Clearance Height=RapidClearance
+Corner 1X=0
+Corner 1Y=0
+Corner 2X=0
+Corner 2Y=0
+Function=0
+Inside=1
+layer=0
+part=0
+[BinaryDataStart]%   Xå\F3ÀğáıìS€#@ \ 0 /  ÿÿÿÿ       Ê–lJ×„Q@‰lJ×|UÀ  èï’ü¨RÀ
+‰lJ×|UÀ  Xå\F3@ğáıìS€#À  -DTû!ù¿	   ««  
+                     èï’ü¨RÀ
+‰lJ×|UÀ  É–lJ×tYÀSÄ=$ùaMÀ  èï’ü¨RÀSÄ=$ùaMÀ  -DTû!ù?	  -DTû!	@
+  „›6áj/;@           É–lJ×tYÀSÄ=$ùaMÀ  Ö(lJ×tYÀ‰lJ×|U@  Xå\F3@ğáıìS€#À  £!cğOˆ=	   ««  
+                     Ö(lJ×tYÀ‰lJ×|U@  nÒ&kQvLÀêí&kQ†D@  Xå\F3@ğáıìS€#À  5?3|Ù@	  lÍ«  
+                     nÒ&kQvLÀêí&kQ†D@  nÒ&kQvLÀğáıìS€#À  Xå\F3@ğáıìS€#À  -DTû!	@	   ½´J^
+  H2
+«             nÒ&kQvLÀğáıìS€#À  Xå\F3@ğáıìS€#À  Xå\F3@ğáıìS€#À  -DTû!ù?	  lÍ«  
+  H2
+«             Xå\F3@ğáıìS€#À  fß_RS@¦€¾ËG7À  Xå\F3@ğáıìS€#À  éS&k€Ìü?	  lÍ«  
+                     fß_RS@¦€¾ËG7À  mÛº3…gY@ùC
+BêLÀ  É–lJ×„Q@Ù”®KÀ  JÓÈ¸L÷?	  àü·(TÍ?
+  ÿÿÿÿÿ¿?@           mÛº3…gY@ùC
+BêLÀ  Ê–lJ×„Q@‰lJ×|UÀ  É–lJ×„Q@Ù”®KÀ  JÓÈ¸L÷?	  æ<µß=÷ú?
+       À?@         4 0 /  ÿÿÿÿ       É–lJ×„Q@¤"äpìPÀ  b0äpäT@Ù”®KÀ  É–lJ×„Q@Ù”®KÀ  -DTû!ù¿	  -DTû!	@
+  ÈÌÌÌÌü*@           b0äpäT@Ù”®KÀ  É–lJ×„Q@ãŞ¥a{ZDÀ  É–lJ×„Q@Ù”®KÀ  -DTû!ù¿	  -DTû!ù?
+  ÌÌÌÌÌü*@           É–lJ×„Q@ãŞ¥a{ZDÀ  _ú¥a{JL@Ù”®KÀ  É–lJ×„Q@Ù”®KÀ  -DTû!ù¿	          
+  ÌÌÌÌÌü*@           _ú¥a{JL@Ù”®KÀ  É–lJ×„Q@¤"äpìPÀ  É–lJ×„Q@Ù”®KÀ  -DTû!ù¿	  -DTû!ù¿
+  ÌÌÌÌÌü*@         4 0 /  ÿÿÿÿ       
+-Xêñ[3@³]v)­KÀ  ´+8Tl7@ŞäŒhø¤IÀ  
+-Xêñ[3@ŞäŒhø¤IÀ  -DTû!ù¿	  -DTû!	@
+  ¨ÆK7‰A@           ´+8Tl7@ŞäŒhø¤IÀ  
+-Xêñ[3@	l£AÇœGÀ  
+-Xêñ[3@ŞäŒhø¤IÀ  -DTû!ù¿	  -DTû!ù?
+  ¨ÆK7‰A@           
+-Xêñ[3@	l£AÇœGÀ  ¿v
+9—.@ŞäŒhø¤IÀ  
+-Xêñ[3@ŞäŒhø¤IÀ  -DTû!ù¿	        °¼
+  ªÆK7‰A@           ¿v
+9—.@ŞäŒhø¤IÀ  
+-Xêñ[3@³]v)­KÀ  
+-Xêñ[3@ŞäŒhø¤IÀ  -DTû!ù¿	  -DTû!ù¿
+  ¨ÆK7‰A@           |®Gáz@   R¸…ëQ@               ÿÿÿÿ      Ú©Î‘;WÀ   ¯f<Ş¨¸SÀ      #    $    0           1                 4 |®Gáz@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 É–lJ×„Q@ 4 ¤"äpìPÀ 4     # 4  $ 4  0 4         1 4                 4 |®Gáz@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 
+-Xêñ[3@ 4 ³]v)­KÀ 4    # 4  $ 4  0 4         1 4                     %       ĞGÀ"ZfffY@   0 /  ÿÿÿÿ       ˜V+À"ZfffYÀ  Œlçû©I@À"ZfffYÀ       ĞG@"ZfffYÀ  -DTû!ù¿	  lıÚ‘È  
+                     Œlçû©I@À"ZfffYÀ       ĞGÀUwçÿÿ¿OÀ       ĞG@"ZfffYÀ  àìCiyØ¿	  lıÚ‘È  
+                          ĞGÀUwçÿÿ¿OÀ  43333“<ÀU5fff9À       ĞG@"ZfffYÀ  H»ag¬İ?	  lıÚ‘È  
+                     43333“<ÀU5fff9À       ĞGÀU5fff9À       ĞG@"ZfffYÀ  -DTû!ù¿	  lıÚ‘È  
+                          ĞGÀU5fff9À  43333“<À‰Èfff)@       ĞG@"ZfffYÀ  P»ag¬İ?	  lıÚ‘È  
+                     43333“<À‰Èfff)@       ĞGÀ‰Èfff)@       ĞG@"ZfffYÀ  -DTû!ù¿	  lıÚ‘È  
+                          ĞGÀ‰Èfff)@  43333“<Àï~fffI@       ĞG@"ZfffYÀ  H»ag¬İ?	  lıÚ‘È  
+                     43333“<Àï~fffI@       ĞGÀï~fffI@       ĞG@"ZfffYÀ  -DTû!ù¿	  lıÚ‘È  
+                          ĞGÀï~fffI@  ˜™™™™96À»ªrfffY@       ĞG@"ZfffYÀ  P»ag¬İ?	  lıÚ‘È  
+                     ˜™™™™96À»ªrfffY@       ĞG@¸Cfff)À       ĞG@"ZfffYÀ  £Æu¾@	  lıÚ‘È  
+                          ĞG@¸Cfff)À       ĞG@xˆÀÌÌSÀ       ĞG@"ZfffYÀ  -DTû!	@	  lıÚ‘È  
+                          ĞG@xˆÀÌÌSÀ  X9´ÈvvC@»ªrfffYÀ       ĞG@"ZfffYÀ  ñ'Hõ/~À	  lıÚ‘È  
+                     X9´ÈvvC@»ªrfffYÀ  ã¥›Ä à3@"ZfffYÀ       ĞG@"ZfffYÀ  ´ÀñSû!ù¿	   WÛø3v
+  ğEÍı             ã¥›Ä à3@"ZfffYÀ  `fffff	@Ëkfh‘9UÀ  `fffff	@"ZfffYÀ  -DTû!ù¿	  -DTû!ù?
+  ÙÎ÷S³0@           `fffff	@Ëkfh‘9UÀ  ˜V+À"ZfffYÀ  `fffff	@"ZfffYÀ  -DTû!ù¿	          
+  ÙÎ÷S³0@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    “çÆKM$À  ÂSuR,âVÀ      #   $   0          1                    %  m_°Ê.pÀP¢Ğ%äz@ ° 0 /  ÿÿÿÿ       m_°Ê.p@J÷†Ésw@  m_°Ê.p@¶y6Œ’pÀ  m_°Ê.p@P¢Ğ%äzÀ  -DTû!	@	  lıÚ‘È  
+                     m_°Ê.p@¶y6Œ’pÀ  Oá«NôÕj@P¢Ğ%äzÀ  m_°Ê.p@P¢Ğ%äzÀ  ‘‚>Ñ	À	  lıÚ‘È  
+                     Oá«NôÕj@P¢Ğ%äzÀ  9,Ú
+¤¢a@èkt˜¨yÀ  m_°Ê.p@P¢Ğ%äzÀ  4ï8Æ¦ñô¿	   WÛø3v
+                     9,Ú
+¤¢a@èkt˜¨yÀ  ¸Ú§W^@ÄS–@B~À  m_°Ê.p@P¢Ğ%äzÀ  jØ>Ñ	À	  lıÚ‘È  
+                     ¸Ú§W^@ÄS–@B~À  m_°Ê.pÀÚAÇ<æãwÀ  m_°Ê.p@P¢Ğ%äzÀ  0×8Æ¦ñô¿	  lıÚ‘È  
+                     m_°Ê.pÀÚAÇ<æãwÀ  şÿß¨zæmÀOgŞ>JsÀ  m_°Ê.p@P¢Ğ%äzÀ  è-*8RÁĞ?	  lıÚ‘È  
+                     şÿß¨zæmÀOgŞ>JsÀ  „hí¿~İPÀºâºğ‡*vÀ  m_°Ê.p@P¢Ğ%äzÀ  —“OâORı?	   ÛÙÈ  
+                     „hí¿~İPÀºâºğ‡*vÀ  4Yº¢õV@º—ñ‹/tÀ  ĞÅ½18ğ3ÀŞIà_¨)fÀ  ìDaçORí¿	  .¡µ
+Ñ	À
+  ”wffœóf@           4Yº¢õV@º—ñ‹/tÀ  Ú¾.`•ud@ßIà_¨)fÀ  ĞÅ½18ğ3ÀŞIà_¨)fÀ  ìDaçORí¿	  Çgú£‘å@
+  ”wffœóf@           Ú¾.`•ud@ßIà_¨)fÀ  Ú¾.`•ud@|*ºü¦ğs@  m_°Ê.p@P¢Ğ%äzÀ          	  lıÚ‘È  
+                     Ú¾.`•ud@|*ºü¦ğs@  tXÈù.×f@ÄS–@Rv@  m_°Ê.p@P¢Ğ%äzÀ  H»ag¬İ?	  lıÚ‘È  
+                     tXÈù.×f@ÄS–@Rv@  Ú¾.`•ud@ÄS–@Rv@  m_°Ê.p@P¢Ğ%äzÀ  -DTû!ù¿	  lıÚ‘È  
+                     Ú¾.`•ud@ÄS–@Rv@  tXÈù.×f@°]í/Ú³x@  m_°Ê.p@P¢Ğ%äzÀ  H»ag¬İ?	  lıÚ‘È  
+                     tXÈù.×f@°]í/Ú³x@  Ú¾.`•ud@°]í/Ú³x@  m_°Ê.p@P¢Ğ%äzÀ  -DTû!ù¿	  lıÚ‘È  
+                     Ú¾.`•ud@°]í/Ú³x@  tXÈù.×f@J÷†És{@  m_°Ê.p@P¢Ğ%äzÀ  H»ag¬İ?	  lıÚ‘È  
+                     tXÈù.×f@J÷†És{@  Ú¾.`•ud@J÷†És{@  m_°Ê.p@P¢Ğ%äzÀ  -DTû!ù¿	  lıÚ‘È  
+                     Ú¾.`•ud@J÷†És{@  §‹û,b¢g@ÄS–@B~@  m_°Ê.p@P¢Ğ%äzÀ  X»ag¬İ?	  lıÚ‘È  
+                     §‹û,b¢g@ÄS–@B~@  m_°Ê.p@J÷†Ésw@  m_°Ê.p@P¢Ğ%äzÀ  ¢Æu¾@	  lıÚ‘È  
+                   4 0 /  ÿÿÿÿ       > °»?e@€"rª(xÀ  q3Ããîj@çˆiØÇuÀ  > °»?e@çˆiØÇuÀ  -DTû!ù¿	  -DTû!	@
+  ÎÌÌÌÌC@           q3Ããîj@çˆiØÇuÀ  > °»?e@MïÏ>wesÀ  > °»?e@çˆiØÇuÀ  -DTû!ù¿	  -DTû!ù?
+  ÎÌÌÌÌC@           > °»?e@MïÏ>wesÀ  
+Í\}ˆ|`@çˆiØÇuÀ  > °»?e@çˆiØÇuÀ  -DTû!ù¿	        À¼
+  ĞÌÌÌÌC@           
+Í\}ˆ|`@çˆiØÇuÀ  > °»?e@€"rª(xÀ  > °»?e@çˆiØÇuÀ  -DTû!ù¿	  -DTû!ù¿
+  ÎÌÌÌÌC@         4 0 /  ÿÿÿÿ       'ÅSsR@,gékû{À  v+h¹ù[@’mÍOÒ™yÀ  'ÅSsR@“mÍOÒ™yÀ  -DTû!ù¿	  -DTû!	@
+  ÌÌÌÌÌC@           v+h¹ù[@’mÍOÒ™yÀ  'ÅSsR@ùÓ3¶88wÀ  'ÅSsR@“mÍOÒ™yÀ  -DTû!ù¿	  -DTû!ù?
+  ÌÌÌÌÌC@           'ÅSsR@ùÓ3¶88wÀ  T½6ÙÙA@“mÍOÒ™yÀ  'ÅSsR@“mÍOÒ™yÀ  -DTû!ù¿	          
+  ÌÌÌÌÌC@           T½6ÙÙA@“mÍOÒ™yÀ  'ÅSsR@,gékû{À  'ÅSsR@“mÍOÒ™yÀ  -DTû!ù¿	  -DTû!ù¿
+  ÌÌÌÌÌC@         4 0 /  ÿÿÿÿ       tXÈù.Ïj@jùêPe@  Ü¾.`•an@pĞ_Qãh@  tXÈù.Ïj@pĞ_Qãh@  -DTû!ù¿	  -DTû!	@
+  @3333“<@           Ü¾.`•an@pĞ_Qãh@  tXÈù.Ïj@Øå6Æ·ul@  tXÈù.Ïj@pĞ_Qãh@  -DTû!ù¿	  -DTû!ù?
+  @3333“<@           tXÈù.Ïj@Øå6Æ·ul@  òa“È<g@pĞ_Qãh@  tXÈù.Ïj@pĞ_Qãh@  -DTû!ù¿	        À¼
+  @3333“<@           òa“È<g@pĞ_Qãh@  tXÈù.Ïj@jùêPe@  tXÈù.Ïj@pĞ_Qãh@  -DTû!ù¿	  -DTû!ù¿
+  @3333“<@         4 0 /  ÿÿÿÿ       tXÈù.Ïj@ˆ‹<´#)T@  Ü¾.`•an@XX	ğM[@  tXÈù.Ïj@XX	ğM[@  -DTû!ù¿	  -DTû!	@
+  @3333“<@           Ü¾.`•an@XX	ğM[@  tXÈù.Ïj@”ë¦^9a@  tXÈù.Ïj@XX	ğM[@  -DTû!ù¿	  -DTû!ù?
+  @3333“<@           tXÈù.Ïj@”ë¦^9a@  òa“È<g@XX	ğM[@  tXÈù.Ïj@WX	ğM[@  -DTû!ù¿	        À¼
+  @3333“<@           òa“È<g@XX	ğM[@  tXÈù.Ïj@ˆ‹<´#)T@  tXÈù.Ïj@XX	ğM[@  -DTû!ù¿	  -DTû!ù¿
+  @3333“<@         4 0 /  ÿÿÿÿ       tXÈù.Ïj@ŒÁòÈ@ÈXÀ  Ú¾.`•an@Àô%üs£QÀ  tXÈù.Ïj@Àô%üs£QÀ  -DTû!ù¿	  -DTû!	@
+  03333“<@           Ú¾.`•an@Àô%üs£QÀ  tXÈù.Ïj@èO²^NıDÀ  tXÈù.Ïj@Àô%üs£QÀ  -DTû!ù¿	  -DTû!ù?
+  03333“<@           tXÈù.Ïj@èO²^NıDÀ  òa“È<g@Àô%üs£QÀ  tXÈù.Ïj@Áô%üs£QÀ  -DTû!ù¿	        À¼
+  03333“<@           òa“È<g@Àô%üs£QÀ  tXÈù.Ïj@ŒÁòÈ@ÈXÀ  tXÈù.Ïj@Àô%üs£QÀ  -DTû!ù¿	  -DTû!ù¿
+  03333“<@         4 0 /  ÿÿÿÿ       tXÈù.Ïj@ ØØRt|"À  Ú¾.`•an@0ÇÆ	ùT3@  tXÈù.Ïj@0ÇÆ	ùT3@  -DTû!ù¿	  -DTû!	@
+  03333“<@           Ú¾.`•an@0ÇÆ	ùT3@  tXÈù.Ïj@0ı|ôG@  tXÈù.Ïj@0ÇÆ	ùT3@  -DTû!ù¿	  -DTû!ù?
+  03333“<@           tXÈù.Ïj@0ı|ôG@  òa“È<g@0ÇÆ	ùT3@  tXÈù.Ïj@-ÇÆ	ùT3@  -DTû!ù¿	        À¼
+  03333“<@           òa“È<g@0ÇÆ	ùT3@  tXÈù.Ïj@ ØØRt|"À  tXÈù.Ïj@0ÇÆ	ùT3@  -DTû!ù¿	  -DTû!ù¿
+  03333“<@         4 0 /  ÿÿÿÿ       €øßZ^!Àº^ôÿœÂzÀ  à(¥¬Nl.@°5HºGDyÀ  €øßZ^!À°5HºGDyÀ  -DTû!ù¿	  -DTû!	@
+  °ÂZTå7@           à(¥¬Nl.@°5HºGDyÀ  €øßZ^!À¥œtòÅwÀ  €øßZ^!À°5HºGDyÀ  -DTû!ù¿	  -DTû!ù?
+  ¬ÂZTå7@           €øßZ^!À¥œtòÅwÀ  xF™¯@J@À°5HºGDyÀ  €øßZ^!À°5HºGDyÀ  -DTû!ù¿	          
+  °ÂZTå7@           xF™¯@J@À°5HºGDyÀ  €øßZ^!Àº^ôÿœÂzÀ  €øßZ^!À°5HºGDyÀ  -DTû!ù¿	  -DTû!ù¿
+  ¬ÂZTå7@         4 0 /  ÿÿÿÿ       z’Í<Úi@v/LîÌĞpÀ  ,gÖ&<l@RÅşB @oÀ  z’Í<Úi@RÅşB @oÀ  -DTû!ù¿	  -DTû!	@
+  ĞÌÌÌÌ3@           ,gÖ&<l@RÅşB @oÀ  z’Í<Úi@¸+e©fŞlÀ  z’Í<Úi@RÅşB @oÀ  -DTû!ù¿	  -DTû!ù?
+  ĞÌÌÌÌ3@           z’Í<Úi@¸+e©fŞlÀ  àø3£óxg@RÅşB @oÀ  z’Í<Úi@SÅşB @oÀ  -DTû!ù¿	        Ğ¼
+  ĞÌÌÌÌ3@           àø3£óxg@RÅşB @oÀ  z’Í<Úi@v/LîÌĞpÀ  z’Í<Úi@RÅşB @oÀ  -DTû!ù¿	  -DTû!ù¿
+  ĞÌÌÌÌ3@         4 0 /  ÿÿÿÿ       D¼Éı›yRÀ†±)ùççyÀ   -•ÑlKÀ¹ä\,·xÀ  D¼Éı›yRÀ¹ä\,·xÀ  -DTû!ù¿	  -DTû!	@
+  ĞÌÌÌÌ3@            -•ÑlKÀ¹ä\,·xÀ  D¼Éı›yRÀì_N†wÀ  D¼Éı›yRÀ¹ä\,·xÀ  -DTû!ù¿	  -DTû!ù?
+  ÌÌÌÌÌ3@           D¼Éı›yRÀì_N†wÀ  xïü0Ï<WÀ¹ä\,·xÀ  D¼Éı›yRÀ¹ä\,·xÀ  -DTû!ù¿	          
+  ĞÌÌÌÌ3@           xïü0Ï<WÀ¹ä\,·xÀ  D¼Éı›yRÀ†±)ùççyÀ  D¼Éı›yRÀ¹ä\,·xÀ  -DTû!ù¿	  -DTû!ù¿
+  ÌÌÌÌÌ3@         4 0 /  ÿÿÿÿ       tXÈù.Ïj@°ğø¶¬ofÀ  òa“È0m@W_dÀ  tXÈù.Ïj@W_dÀ  -DTû!ù¿	  -DTû!	@
+  ĞÌÌÌÌ3@           òa“È0m@W_dÀ  tXÈù.Ïj@|½Åƒy¬aÀ  tXÈù.Ïj@W_dÀ  -DTû!ù¿	  -DTû!ù?
+  ĞÌÌÌÌ3@           tXÈù.Ïj@|½Åƒy¬aÀ  Ú¾.`•mh@W_dÀ  tXÈù.Ïj@W_dÀ  -DTû!ù¿	        Ğ¼
+  ĞÌÌÌÌ3@           Ú¾.`•mh@W_dÀ  tXÈù.Ïj@°ğø¶¬ofÀ  tXÈù.Ïj@W_dÀ  -DTû!ù¿	  -DTû!ù¿
+  ĞÌÌÌÌ3@         4 0 /  ÿÿÿÿ       Ö>UaÀWJˆÖ7ÒxÀ  xJ	ìÊç]ÀŠ}»	k¡wÀ  Ö>UaÀŠ}»	k¡wÀ  -DTû!ù¿	  -DTû!	@
+  ĞÌÌÌÌ3@           xJ	ìÊç]ÀŠ}»	k¡wÀ  Ö>UaÀ¾°î<pvÀ  Ö>UaÀŠ}»	k¡wÀ  -DTû!ù¿	  -DTû!ù?
+  ÌÌÌÌÌ3@           Ö>UaÀ¾°î<pvÀ  pØ7©·cÀŠ}»	k¡wÀ  Ö>UaÀŠ}»	k¡wÀ  -DTû!ù¿	          
+  ĞÌÌÌÌ3@           pØ7©·cÀŠ}»	k¡wÀ  Ö>UaÀWJˆÖ7ÒxÀ  Ö>UaÀŠ}»	k¡wÀ  -DTû!ù¿	  -DTû!ù¿
+  ÌÌÌÌÌ3@         4 0 /  ÿÿÿÿ       ŠŸW 0niÀ(ãæ³‡¼wÀ  ğ¾†–gÀ\çº‹vÀ  ŠŸW 0niÀ\çº‹vÀ  -DTû!ù¿	  -DTû!	@
+  ĞÌÌÌÌ3@           ğ¾†–gÀ\çº‹vÀ  ŠŸW 0niÀIMîZuÀ  ŠŸW 0niÀ\çº‹vÀ  -DTû!ù¿	  -DTû!ù?
+  ÌÌÌÌÌ3@           ŠŸW 0niÀIMîZuÀ  $9ñ¹ÉÏkÀ\çº‹vÀ  ŠŸW 0niÀ\çº‹vÀ  -DTû!ù¿	          
+  ĞÌÌÌÌ3@           $9ñ¹ÉÏkÀ\çº‹vÀ  ŠŸW 0niÀ(ãæ³‡¼wÀ  ŠŸW 0niÀ\çº‹vÀ  -DTû!ù¿	  -DTû!ù¿
+  ÌÌÌÌÌ3@         4 0 /  ÿÿÿÿ       tXÈù.Ïj@R££#Øƒp@  ˜3Âx™ål@ä cq@  tXÈù.Ïj@ä cq@  -DTû!ù¿	  -DTû!	@
+   ÙÎ÷S³0@           ˜3Âx™ål@ä cq@  tXÈù.Ïj@v~¢Bšr@  tXÈù.Ïj@ä cq@  -DTû!ù¿	  -DTû!ù?
+   ÙÎ÷S³0@           tXÈù.Ïj@v~¢Bšr@  P}ÎzÄ¸h@ä cq@  tXÈù.Ïj@ä cq@  -DTû!ù¿	        Ğ¼
+   ÙÎ÷S³0@           P}ÎzÄ¸h@ä cq@  tXÈù.Ïj@R££#Øƒp@  tXÈù.Ïj@ä cq@  -DTû!ù¿	  -DTû!ù¿
+   ÙÎ÷S³0@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    *îEÈQ@  Åe×ÉÔuÀ     #   $   0          1                4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 > °»?e@ 4 "rª(xÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 'ÅSsR@ 4 ,gékû{À 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 tXÈù.Ïj@ 4 jùêPe@ 4 	   # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 tXÈù.Ïj@ 4 ˆ‹<´#)T@ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 tXÈù.Ïj@ 4 ŒÁòÈ@ÈXÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 tXÈù.Ïj@ 4  ØØRt|"À 4 
+   # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 ~øßZ^!À 4 »^ôÿœÂzÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 z’Í<Úi@ 4 v/LîÌĞpÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 D¼Éı›yRÀ 4 †±)ùççyÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 tXÈù.Ïj@ 4 °ğø¶¬ofÀ 4     # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 Ö>UaÀ 4 WJˆÖ7ÒxÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 ŠŸW 0niÀ 4 )ãæ³‡¼wÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 tXÈù.Ïj@ 4 R££#Øƒp@ 4    # 4  $ 4  0 4         1 4                   %  u½”oÀ¦CQƒ@  0 /  ÿÿÿÿ       Ëô’™³
+q@d¹ø#İs@  (
+rdp@Š¸Œİës@  u½”o@¦CQƒÀ   ×“BIÊ÷¿	  lıÚ‘È  
+                     (
+rdp@Š¸Œİës@  ÀÈp°p@Š¸Œİ^ür@  u½”o@¦CQƒÀ  ¤§ÊˆnÀ	   ÛÙÈ  
+                     ÀÈp°p@Š¸Œİ^ür@  ¡„ÁsGo@Æ#¶çør@  u½”o@¦CQƒÀ  ¬¾“Ûµù¿	  lıÚ‘È  
+  ÈáAiÈ             ¡„ÁsGo@Æ#¶çør@  Œø”3b$f@ ÕRnâÕr@  xXi©Õ0pÀ\»†mÏ@   » Ûör?	  yQ=ïß@
+  ÙŸÓ‡ZÙÎ@           Œø”3b$f@ ÕRnâÕr@  L·"q#c@Ö#ÃÃÌr@  èığô€R–@>Ì;‚òAæÀ  xfs˜’ù¿	  }ıì‹|bœ¿
+  \§áPÀiæ@           L·"q#c@Ö#ÃÃÌr@  ò=Ü;>½X@XBÅØŒ¬r@  ñÆõñK2q@e¤Våˆ®À  ÜL%œ|ö‹¿	  êqNÅ3áœ¿
+  ê•CU†r°@           ò=Ü;>½X@XBÅØŒ¬r@  ,¤¶öJ@àAe\î|r@  èbÁW¿rc@¾ë˜$`üÀ  9Ä’xD£¿	  õ~‹®§¿
+  fÃOrk®“@           ,¤¶öJ@àAe\î|r@  ğë¨”r%@ÔşèJí-r@  MÁpZ@ğR!ÃèsÀ  ps·ÁæX±¿	  ¸kÒ¨µ¿
+  |ß³#}Dƒ@           ğë¨”r%@ÔşèJí-r@  ğûÿ‰·6ÀÂ"²T^¿q@  €4±ˆP@˜òo¹ÖNÀ  ªßª5¸¿	  “DcŸôÃ¿
+  ÖdÿíMv@           ğûÿ‰·6ÀÂ"²T^¿q@   âl˜“0JÀ¾B“‚N!q@  pgİÇLB@(0xCä0L@  †}XJÁ¿	  =djoQĞ¿
+  Š¾{jÑem@            âl˜“0JÀ¾B“‚N!q@  `2¢u#ØTÀlszxp@  àËG;*@^í”-¹\@  ¾Ú½MÜ5Ê¿	  é§ı§	Ù¿
+  à6ûwY†e@           `2¢u#ØTÀlszxp@  €•:éå]À úÔ¶ãÖk@  @3sõí@ñŞyÛ_@  0ŸHT!gÔ¿	  1„çèåWã¿
+  ÁO%00¿c@           €•:éå]À úÔ¶ãÖk@  Ô8€ğYaÀÀ¼5íHh@  8¸y^ÏåE@R"ËnÉX@  è@H(“£Æ¿	  8³/‹‹í¿
+  Hc™tH›i@           Ô8€ğYaÀÀ¼5íHh@  xPæ°6cÀHVFo¶c@  UÒ¦Ï‚_@Îö#¼*HL@  (œƒe À¿	  §	r+‘ñ¿
+  í$‡ñ‚—r@           xPæ°6cÀHVFo¶c@  úî¾y…ĞdÀ([%¤*!]@  ÔĞ’\ =q@ %ú1ÍÈ÷?   Ó®Pd(¸¿	  Šzy5mó¿
+  ŸÏ’ºE‘|@           úî¾y…ĞdÀ([%¤*!]@  r\Ã•v/fÀ0ó»ˆ­øP@  ´_Cõ¿€@Ğ¦wáİPÀ  0cÒñ“±¿	  ¿´U0âõ¿
+  >¡Nš›±†@           r\Ã•v/fÀ0ó»ˆ­øP@  >ñÌfxgÀ€µ¸²ƒ@  ÌÄ“D¸X@ölå¥cÀ  @¼+6[%«¿	  °{v\ö¿
+  §|òWÇ’@           >ñÌfxgÀ€µ¸²ƒ@  ²ÙV§hÀ` aHÉñRÀ  ©œ¡‰¶@>Üÿ‘qÀ  `¸æ ¿£¿	  ‰®¡¡ôö¿
+  ÃZÂy @           ²ÙV§hÀ` aHÉñRÀ  ºwG¥DÔiÀ>t78qgÀ  æÒrˆ«%®@<yô’§•}À  ÀI1ÇA.œ¿	  °–#-Å‘÷¿
+  µ:áy×¯@           ºwG¥DÔiÀ>t78qgÀ  –”4kÀğŸ\Ö;HuÀ  Jÿ—1
+ËÁ@í´ü;VŠÀ  €àFÎ¿	  m]Y’bø¿
+  É ÛîÜ=Â@           –”4kÀğŸ\Ö;HuÀ  ¨Ş¿£ëoÀª• 4ŠswÀ  tMó!ŸÂoÀUé›òHuÀ  Ôg€Ø@ø?	  ˆ'	xòŒú?
+  ÄÌÌÌÌC@           ¨Ş¿£ëoÀª• 4ŠswÀ  jÙl·ÅBrÀOŞGuÀ  tMó!ŸÂoÀUé›òHuÀ  Ôg€Ø@ø?	  ƒ{,İÀ
+  ÅÌÌÌÌC@           jÙl·ÅBrÀOŞGuÀ  ,	µ³:rÀ³İeˆtÀ  u½”o@¦CQƒÀ  €]¤Ö!·¬?	          
+  ÈáAiÈ             ,	µ³:rÀ³İeˆtÀ  s‘írÀ©ÔØ¿ÁpÀ  —‹ê`©cÈÀje¨Teßu@   è„û"pt¿	  srÅú?
+  àÚDÛÇ@           s‘írÀ©ÔØ¿ÁpÀ  xç20ô¦qÀjô±Uî¼aÀ  òåãëÀ›LcÛ£@   ¢B¢w1b¿	  bÔÌéù?
+  õ³ïoÇë@           xç20ô¦qÀjô±Uî¼aÀ  ÿX¤wŒqÀè/©€ZÀ  bªz¥uö@°“K°±À  €ıÖÀµ˜§?	  ‰Öµidø¿
+  6[#`ö@           ÿX¤wŒqÀè/©€ZÀ  fB‘ÃBqÀ@ˆ7ë,À  k×IKº®Å@³È·MÛƒÀ   än”Œ€?	  XŠÏ›cø¿
+  ûËEAÆ@           fB‘ÃBqÀ@ˆ7ë,À  
+¼²êpÀuò@zP@  ¥w³~¥§@ä£ƒL:æhÀ   âğb,×˜?	  n±6Z<ø¿
+  uZ^ÅIĞ©@           
+¼²êpÀuò@zP@  ”á‘Û×pÀ¬ë5&C`@  B¬€“@(€ûvDLÀ  €C^E¦?	  ãñ¤×Ñ÷¿
+  ıÑUâV—@           ”á‘Û×pÀ¬ë5&C`@  œdU“÷oÀ¤bÉ@a©f@  e}irV€€@Ë
+Dÿ«<@  €·½¿ °?	  nmK÷¿
+  ò®c ôˆ@           œdU“÷oÀ¤bÉ@a©f@  ,ÕÁG»nÀ4néL»k@  ÉMRj@ß¨Ö2ÁeV@  €GGÏ”¶?	  ÑJ\‹ö¿
+  ÷ajëè–}@           ,ÕÁG»nÀ4néL»k@  ¤à·ê'mÀN¤1Kp@  ©ƒ@¿RF@ÌŸÖ=Õa@  @Tlc[¿?	  »7Êbô¿
+  	Ğº¡zìr@           ¤à·ê'mÀN¤1Kp@  @WæÛ-kÀ2ûáŒ–ãq@  Ğ™¸Ü•ªDÀ¥~Kœe@   ´r€e}Ä?	  ‚•F‹ò¿
+  duAî{-j@           @WæÛ-kÀ2ûáŒ–ãq@  Ö”°«›ügÀ˜šÜ¦ªÊs@  ­€êXNTÀnÂo@M¼h@  ÀlÎTMhÏ?	  	¹!·Úï¿
+  nƒÕ‚@Kd@           Ö”°«›ügÀ˜šÜ¦ªÊs@  $9™BcÀÌü¬¨iu@  _ƒZšTRTÀ¾CîßK~h@  0Ä%;‘ûÑ?	  °?1¼ç¿
+  ó¥^ªWwd@           $9™BcÀÌü¬¨iu@  Ö“z8€^Àö5ygh8v@  :©¥NzLÀ–vƒ¨xb@  €6nEÓZÄ?	  à¤­Ò˜İ¿
+  a2VQg6k@           Ö“z8€^Àö5ygh8v@  $È½ĞUÀBR4¤Îv@  Ä)Ô¢:À˜¿Fú+J@  @½¨²I9¿?	  ìA "Ó¿
+  ~*œ¿<İs@           $È½ĞUÀBR4¤Îv@  è¢íIgDÀBaZu0w@  `NM°ì<@ìŞÒ[|ÿ^À  Àû‘ì­¬¶?	  Ñ!æ5§œÇ¿
+  ,Èøâ@           è¢íIgDÀBaZu0w@  0ö6Gç\,@^xdhw@  Wì/Á	²C@  îĞlj|À   ùµ±?	  5«í7’É¸¿
+  /Á†ì‰@           0ö6Gç\,@^xdhw@  Ô÷“‘`ÍT@†QÖ|qw@  j®8Ñ¯vN@öÖ*] ‘À  €d@ƒ§?	  œ5ÒˆØŸ¿
+  ?Uş?e}—@           Ô÷“‘`ÍT@†QÖ|qw@  ¾&¨7L.e@¼fúJw@  zdxP1šC@ùi¶ñJá¤À   Ç$üœ?	  4n&¥V‘?
+  ^(Ğ§@           ¾&¨7L.e@¼fúJw@  eúl·ÅBr@nìeîæv@  xŞáK!îiÀu>=ÀÀ   ¶á
+ZñŒ?	  V>ç–ö2¦?
+  Z‰«©¤ûÀ@           eúl·ÅBr@nìeîæv@  eúl·ÅBr@’ñ{İBv@  u½”o@¦CQƒÀ  -DTû!	@	  lıÚ‘È  
+                     eúl·ÅBr@’ñ{İBv@  SÈÜOî°q@¨rÃu@  u½”o@¦CQƒÀ  DòæÒÀ	  lıÚ‘È  
+                     SÈÜOî°q@¨rÃu@  `<Ê[–Ñq@ö ó\ët@  u½”o@¦CQƒÀ  øôiâë®@	  lıÚ‘È  
+                     `<Ê[–Ñq@ö ó\ët@  Ö5¡ã‹1q@P#€İ	–t@  u½”o@¦CQƒÀ  ¦–8)u} À	  lıÚ‘È  
+                     Ö5¡ã‹1q@P#€İ	–t@  Ëô’™³
+q@d¹ø#İs@  u½”o@¦CQƒÀ  ÁtåyÀ	  lıÚ‘È  
+                   4 0 /  ÿÿÿÿ       Të¤»ÃeÀJ¸-½Fr@  œW¯ÍÕhÀ83l'Çn@  u½”o@¦CQƒÀ  hMÂà#9À	  lıÚ‘È  
+                     œW¯ÍÕhÀ83l'Çn@  @ÀîkcÀğÆa´µk@  u½”o@¦CQƒÀ  <ö£Õy @	  lıÚ‘È  
+                     @ÀîkcÀğÆa´µk@  ğ[k÷´ú_À&‚¨c´½p@  u½”o@¦CQƒÀ  €ıœ»Fß?	  lıÚ‘È  
+                     ğ[k÷´ú_À&‚¨c´½p@  Të¤»ÃeÀJ¸-½Fr@  u½”o@¦CQƒÀ  ¸m@mLPñ¿	  lıÚ‘È  
+                   4 0 /  ÿÿÿÿ       8êzi_@V0Qİ
+t@  @Pü…'Ëa@è­u@  8êzi_@è­u@  -DTû!ù¿	  -DTû!	@
+   ÙÎ÷S³0@           @Pü…'Ëa@è­u@  8êzi_@zù)ĞG!v@  8êzi_@è­u@  -DTû!ù¿	  -DTû!ù?
+   ÙÎ÷S³0@           8êzi_@zù)ĞG!v@  ğ3¥<[@è­u@  8êzi_@è­u@  -DTû!ù¿	          
+   ÙÎ÷S³0@           ğ3¥<[@è­u@  8êzi_@V0Qİ
+t@  8êzi_@è­u@  -DTû!ù¿	  -DTû!ù¿
+   ÙÎ÷S³0@         4 0 /  ÿÿÿÿ       tMó!ŸÂoÀXa§qçuÀ  n]ÜÙNnÀUé›òHuÀ  tMó!ŸÂoÀUé›òHuÀ  -DTû!ù¿	  -DTû!	@
+  ` o¥*@           n]ÜÙNnÀUé›òHuÀ  tMó!ŸÂoÀRqÎ =tÀ  tMó!ŸÂoÀUé›òHuÀ  -DTû!ù¿	  -DTû!ù?
+  ` o¥*@           tMó!ŸÂoÀRqÎ =tÀ  ¾µw¶pÀUé›òHuÀ  tMó!ŸÂoÀUé›òHuÀ  -DTû!ù¿	          
+  € o¥*@           ¾µw¶pÀUé›òHuÀ  tMó!ŸÂoÀXa§qçuÀ  tMó!ŸÂoÀUé›òHuÀ  -DTû!ù¿	  -DTû!ù¿
+  ` o¥*@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    Ëô’™³
+q@  d¹ø#İs@     #   $   0          1                4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 Të¤»ÃeÀ 4 J¸-½Fr@ 4     # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 8êzi_@ 4 V0Qİ
+t@ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 tMó!ŸÂoÀ 4 Xa§qçuÀ 4    # 4  $ 4  0 4         1 4                   %  zbåmGxSÀìÆ’¤q2À m 0 /  ÿÿÿÿ       ÖJŒP½`@$6PÇàMÀ  âÓøš”²e@±Ú€øÆYÀ  zbåmGxS@ìÆ’¤q2@  o3|Ù@	   WÛø3v
+                     âÓøš”²e@±Ú€øÆYÀ  0j âÒ±.À±Ú€øÆYÀ  zbåmGxS@ìÆ’¤q2@  -DTû!ù¿	  lıÚ‘È  
+                     0j âÒ±.À±Ú€øÆYÀ  30ÇnÑÙcÀj•ê*9@  zbåmGxS@ìÆ’¤q2@  X;Ùpoßê¿	   ÛÙÈ  
+                     30ÇnÑÙcÀj•ê*9@  %ø;ÉÒdÀF iÑ¥T@  {m’4.$`ÀÈhW¤RM@  Ä®W£ˆö?	  TX†ÙHÀ
+  ›™™™™9F@           %ø;ÉÒdÀF iÑ¥T@  j¶Ãƒuä[ÀÒL²ŞX@  {m’4.$`ÀÈhW¤RM@  Ä®W£ˆö?	  kù™µ	ğ¿
+  š™™™™9F@           j¶Ãƒuä[ÀÒL²ŞX@  zbåmGxS@ìÆ’¤q2@  zbåmGxS@ìÆ’¤q2@  yŞÀõ¡ÿ?	  lıÚ‘È  
+                     zbåmGxS@ìÆ’¤q2@  zbåmGxS@$6PÇàMÀ  zbåmGxS@ìÆ’¤q2@  -DTû!	@	  lıÚ‘È  
+                     zbåmGxS@$6PÇàMÀ  ÖJŒP½`@$6PÇàMÀ  zbåmGxS@ìÆ’¤q2@  -DTû!ù?	  lıÚ‘È  
+                   4 0 /  ÿÿÿÿ       {m’4.$`ÀÈhW¤fC@  öÚ$i\R[ÀÈhW¤RM@  {m’4.$`ÀÈhW¤RM@  -DTû!ù¿	  -DTû!	@
+       Ø3@           öÚ$i\R[ÀÈhW¤RM@  {m’4.$`Àä´+RŸS@  {m’4.$`ÀÈhW¤RM@  -DTû!ù¿	  -DTû!ù?
+       Ø3@           {m’4.$`Àä´+RŸS@  {m’4.ŸbÀÇhW¤RM@  {m’4.$`ÀÈhW¤RM@  -DTû!ù¿	          
+       Ø3@           {m’4.ŸbÀÇhW¤RM@  {m’4.$`ÀÈhW¤fC@  {m’4.$`ÀÈhW¤RM@  -DTû!ù¿	  -DTû!ù¿
+       Ø3@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    u6xÍõU@  $6PÇàMÀ     #   $   0          1                4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 {m’4.$`À 4 ÈhW¤fC@ 4     # 4  $ 4  0 4         1 4                   %  È…6É>9À       = É 0 /  ÿÿÿÿ       ¤aUüEÀyï_:On?À  ”³hLÀ¡¼äl!@  ¤'Æ µ)ÀÁ^Ÿşÿÿÿ¼  ¨´éš*rï?	  Ò!3|ÙÀ
+  ›™™™™9F@           ”³hLÀ¡¼äl!@   €(DDŸÀ©ÔJ;ËE@  ¤'Æ µ)ÀÁ^Ÿşÿÿÿ¼  -DTû!ù?	  Oiñ°ãùõ¿
+  š™™™™9F@            €(DDŸÀ©ÔJ;ËE@  ƒ#ËÇ~L@<Á_:On?@  È…6É>9@       ½  Pü–÷Jü?	  lıÚ‘È  
+                     ƒ#ËÇ~L@<Á_:On?@  Æ…6É>9@       ½  È…6É>9@       ½  Ò!3|ÙÀ	  lıÚ‘È  
+                     Æ…6É>9@       ½  ƒ#ËÇ~L@@Á_:On?À  È…6É>9@       ½  Ò!3|Ù@	  lıÚ‘È  
+                     ƒ#ËÇ~L@@Á_:On?À  P€(DDŸÀ¬ÔJ;ËEÀ  È…6É>9@       ½  Pü–÷Jü¿	   ÛÙÈ  
+                     P€(DDŸÀ¬ÔJ;ËEÀ  ¤aUüEÀyï_:On?À  ¤'Æ µ)ÀÁ^Ÿşÿÿÿ¼  ¨´éš*rï?	  4Ëš‚ï@
+  ™™™™™9F@         4 0 /  ÿÿÿÿ       ¤'Æ µ)À    Ø3À  ¸°s¾”6@¸îˆæ‡ú¼  ¤'Æ µ)ÀÁ^Ÿşÿÿÿ¼  -DTû!ù¿	  -DTû!	@
+       Ø3@           ¸°s¾”6@¸îˆæ‡ú¼  ¤'Æ µ)Àşÿÿÿÿ×3@  ¤'Æ µ)ÀÁ^Ÿşÿÿÿ¼  -DTû!ù¿	  -DTû!ù?
+       Ø3@           ¤'Æ µ)Àşÿÿÿÿ×3@  é‰1h-1@ÀnWq#V5½  ¢'Æ µ)Àjfäx½  -DTû!ù¿	          
+      Ø3@           é‰1h-1@ÀnWq#V5½  ¤'Æ µ)À    Ø3À  ¤'Æ µ)ÀÁ^Ÿşÿÿÿ¼  -DTû!ù¿	  -DTû!ù¿
+       Ø3@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    á–,šrÃ?@  sDØCÏĞÀ     #   $   0          1                4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 £'Æ µ)À 4     Ø3À 4     # 4  $ 4  0 4         1 4                   %  Â×O}:À       =  0 /  ÿÿÿÿ       P<e	ÄGÀDd[!äõAÀ  kEû­ NÀ]R (8‹%@  ¯ƒ•8'ÀüôŠ   ½  pÊXøï?	  Ò!3|ÙÀ
+  ffffffI@           kEû­ NÀ]R (8‹%@  ÀÊ5vÎÕê¿Úd·ˆÒH@  ¯ƒ•8'ÀüôŠ   ½  -DTû!ù?	  mÂY™Ì¶õ¿
+  ffffffI@           ÀÊ5vÎÕê¿Úd·ˆÒH@  )RGª‹4O@q[!äõA@  Â×O}:@       ½  9›.*ü?	  lıÚ‘È  
+                     )RGª‹4O@q[!äõA@  Â×O}:@       ½  Â×O}:@       ½  Ò!3|ÙÀ	  lıÚ‘È  
+                     Â×O}:@       ½  )RGª‹4O@ q[!äõAÀ  Â×O}:@       ½  Ò!3|Ù@	  lıÚ‘È  
+                     )RGª‹4O@ q[!äõAÀ  ÀÊ5vÎÕê¿Üd·ˆÒHÀ  Â×O}:@       ½  8›.*ü¿	   ÛÙÈ  
+                     ÀÊ5vÎÕê¿Üd·ˆÒHÀ  P<e	ÄGÀDd[!äõAÀ  ¯ƒ•8'ÀüôŠ   ½  pÊXøï?	  Â÷Îöcl@
+  efffffI@         4 0 /  ÿÿÿÿ       ¯ƒ•8'À    Ø3À  ôP|ğjw @ğyÿğ‡ú¼  ¯ƒ•8'ÀüôŠ   ½  -DTû!ù¿	  -DTû!	@
+       Ø3@           ôP|ğjw @ğyÿğ‡ú¼  ¯ƒ•8'Àşÿÿÿÿ×3@  ¯ƒ•8'ÀüôŠ   ½  -DTû!ù¿	  -DTû!ù?
+       Ø3@           ¯ƒ•8'Àşÿÿÿÿ×3@  †×Á‡Jt?À
+¬(V5½  
+¯ƒ•8'Àe¡äx½  -DTû!ù¿	          
+      Ø3@           †×Á‡Jt?À
+¬(V5½  ¯ƒ•8'À    Ø3À  ¯ƒ•8'ÀüôŠ   ½  -DTû!ù¿	  -DTû!ù¿
+       Ø3@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    P<e	ÄGÀ  Dd[!äõAÀ     #   $   0          1                4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 ¯ƒ•8'À 4     Ø3À 4     # 4  $ 4  0 4         1 4                   %       ĞGÀÖ£p=
+—U@   0 /  ÿÿÿÿ            ĞG@€¸…ëQ@       ĞG@y®GázNÀ       ĞG@Ö£p=
+—UÀ  -DTû!	@	  lıÚ‘È  
+                          ĞG@y®GázNÀ  =
+×£p-7@õ(\Â5]À       ĞG@Ö£p=
+—UÀ  ˜¨Ê{]ÕÀ	  lıÚ‘È  
+                     =
+×£p-7@õ(\Â5]À  Âõ(\Ÿ;Àõ(\Â5]À       ĞG@Ö£p=
+—UÀ  -DTû!ù¿	  lıÚ‘È  
+                     Âõ(\Ÿ;Àõ(\Â5]À       ĞGÀßz®G!HÀ       ĞG@Ö£p=
+—UÀ  à8vÄ®)Ò¿	  lıÚ‘È  
+                          ĞGÀßz®G!HÀ  43333“<ÀH¸…ëQ$À       ĞG@Ö£p=
+—UÀ  H»ag¬İ?	  lıÚ‘È  
+                     43333“<ÀH¸…ëQ$À       ĞGÀH¸…ëQ$À       ĞG@Ö£p=
+—UÀ  -DTû!ù¿	  lıÚ‘È  
+                          ĞGÀH¸…ëQ$À  43333“<Àt=
+×£ğ;@       ĞG@Ö£p=
+—UÀ  P»ag¬İ?	  lıÚ‘È  
+                     43333“<Àt=
+×£ğ;@       ĞGÀt=
+×£ğ;@       ĞG@Ö£p=
+—UÀ  -DTû!ù¿	  lıÚ‘È  
+                          ĞGÀt=
+×£ğ;@  43333“<ÀÄõ(\‚P@       ĞG@Ö£p=
+—UÀ  H»ag¬İ?	  lıÚ‘È  
+                     43333“<ÀÄõ(\‚P@       ĞGÀÄõ(\‚P@       ĞG@Ö£p=
+—UÀ  -DTû!ù¿	  lıÚ‘È  
+                          ĞGÀÄõ(\‚P@  ˜™™™™96Àö(\Â5]@       ĞG@Ö£p=
+—UÀ  P»ag¬İ?	  lıÚ‘È  
+                     ˜™™™™96Àö(\Â5]@       ĞG@€¸…ëQ@       ĞG@Ö£p=
+—UÀ  £Æu¾@	   WÛø3v
+                    R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    ?çÄ\ıó@À  ¹’<Ï„Ò4À      #   $   0          1                    %  ×Á{rÀ×>"_Fz@ Á 0 /  ÿÿÿÿ       ×Á{r@{J‹éoÀ  ¦£E¹øl@J'Dà~À  ×Á{r@×>"_FzÀ  ˆ>Ñ	À	   WÛø3v
+                     ¦£E¹øl@J'Dà~À  ×Á{rÀ<àK3’
+vÀ  ×Á{r@×>"_FzÀ  ¸Ù8Æ¦ñô¿	  lıÚ‘È  
+                     ×Á{rÀ<àK3’
+vÀ  Û2de@qÀ«<cêpqÀ  ×Á{r@×>"_FzÀ   i.8RÁĞ?	  lıÚ‘È  
+                     Û2de@qÀ«<cêpqÀ  ÀÆrğ¹¨>À5çBÁŒuÀ  ×Á{r@×>"_FzÀ  EvOâORı?	   ÛÙÈ  
+                     ÀÆrğ¹¨>À5çBÁŒuÀ  9¯³ey`@FŸÅ‘sÀ  PQ¡,İ0@­sSîdÀ  P×ËPRí¿	  üW ¯Ğ	À
+  Ùƒƒœ›óf@           9¯³ey`@FŸÅ‘sÀ  ®‚=i@®sSîdÀ  PQ¡,İ0@­sSîdÀ  P×ËPRí¿	  `ÕÑ‘å@
+  Øƒƒœ›óf@           ®‚=i@®sSîdÀ  ®‚=i@±õªmt@  ×Á{r@×>"_FzÀ          	  lıÚ‘È  
+                     ®‚=i@±õªmt@  œG±×pk@K'Dğv@  ×Á{r@×>"_FzÀ  H»ag¬İ?	  lıÚ‘È  
+                     œG±×pk@K'Dğv@  ®‚=i@K'Dğv@  ×Á{r@×>"_FzÀ  -DTû!ù¿	  lıÚ‘È  
+                     ®‚=i@K'Dğv@  œG±×pk@å(Áİ Qy@  ×Á{r@×>"_FzÀ  H»ag¬İ?	  lıÚ‘È  
+                     œG±×pk@å(Áİ Qy@  ®‚=i@å(Áİ Qy@  ×Á{r@×>"_FzÀ  -DTû!ù¿	  lıÚ‘È  
+                     ®‚=i@å(Áİ Qy@  œG±×pk@ÂZw:³{@  ×Á{r@×>"_FzÀ  H»ag¬İ?	  lıÚ‘È  
+                     œG±×pk@ÂZw:³{@  ®‚=i@ÂZw:³{@  ×Á{r@×>"_FzÀ  -DTû!ù¿	  lıÚ‘È  
+                     ®‚=i@ÂZw:³{@  ÏzäN
+<l@K'Dà~@  ×Á{r@×>"_FzÀ  X»ag¬İ?	  lıÚ‘È  
+                     ÏzäN
+<l@K'Dà~@  ×Á{r@ÂZw:»w@  ×Á{r@×>"_FzÀ  ¢Æu¾@	  lıÚ‘È  
+                     ×Á{r@ÂZw:»w@  ×Á{r@{J‹éoÀ  ×Á{r@×>"_FzÀ  -DTû!	@	  lıÚ‘È  
+                   4 0 /  ÿÿÿÿ       œG±×ho@‡nwÑ!q@  `‘UÍ ¿p@\ôÔ,r@  œG±×ho@\ôÔ,r@  -DTû!ù¿	  -DTû!	@
+   ÙÎ÷S³0@           `‘UÍ ¿p@\ôÔ,r@  œG±×ho@«IqP	8s@  œG±×ho@\ôÔ,r@  -DTû!ù¿	  -DTû!ù?
+   ÙÎ÷S³0@           œG±×ho@«IqP	8s@  xl·œlRm@\ôÔ,r@  œG±×ho@\ôÔ,r@  -DTû!ù¿	        Ğ¼
+   ÙÎ÷S³0@           xl·œlRm@\ôÔ,r@  œG±×ho@‡nwÑ!q@  œG±×ho@\ôÔ,r@  -DTû!ù¿	  -DTû!ù¿
+   ÙÎ÷S³0@         4 0 /  ÿÿÿÿ       ¢¶^5tn@í€Ò¤ApÀ  J*‚à":p@è.WçrnÀ  ¢¶^5tn@è.WçrnÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           J*‚à":p@è.WçrnÀ  ¢¶^5tn@ö[	…blÀ  ¢¶^5tn@è.WçrnÀ  -DTû!ù¿	  -DTû!ù?
+  —nƒ 0@           ¢¶^5tn@ö[	…blÀ  °®hü$tl@è.WçrnÀ  ¢¶^5tn@è.WçrnÀ  -DTû!ù¿	        Ğ¼
+  —nƒ 0@           °®hü$tl@è.WçrnÀ  ¢¶^5tn@í€Ò¤ApÀ  ¢¶^5tn@è.WçrnÀ  -DTû!ù¿	  -DTû!ù¿
+  —nƒ 0@         4 0 /  ÿÿÿÿ       è»ïs—ŒBÀ.?­¯\yÀ  @àpÕ«5ÀµU†~TxÀ  è»ïs—ŒBÀµU†~TxÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           @àpÕ«5ÀµU†~TxÀ  è»ïs—ŒBÀ<l_MLwÀ  è»ïs—ŒBÀµU†~TxÀ  -DTû!ù¿	  -DTû!ù?
+  Œ—nƒ 0@           è»ïs—ŒBÀ<l_MLwÀ  °'ıØŒJÀµU†~TxÀ  è»ïs—ŒBÀµU†~TxÀ  -DTû!ù¿	          
+  —nƒ 0@           °'ıØŒJÀµU†~TxÀ  è»ïs—ŒBÀ.?­¯\yÀ  è»ïs—ŒBÀµU†~TxÀ  -DTû!ù¿	  -DTû!ù¿
+  Œ—nƒ 0@         4 0 /  ÿÿÿÿ       `—E£¦[@Ö‹ ÓüyÀ  D«2
+Ä¦_@^¢ù¡üxÀ  `—E£¦[@^¢ù¡üxÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           D«2
+Ä¦_@^¢ù¡üxÀ  `—E£¦[@å¸ÒpüwÀ  `—E£¦[@^¢ù¡üxÀ  -DTû!ù¿	  -DTû!ù?
+  —nƒ 0@           `—E£¦[@å¸ÒpüwÀ  |_û€‚¦W@^¢ù¡üxÀ  `—E£¦[@^¢ù¡üxÀ  -DTû!ù¿	          
+  —nƒ 0@           |_û€‚¦W@^¢ù¡üxÀ  `—E£¦[@Ö‹ ÓüyÀ  `—E£¦[@^¢ù¡üxÀ  -DTû!ù¿	  -DTû!ù¿
+  —nƒ 0@         4 0 /  ÿÿÿÿ       œG±×ho@“$–ÒdÀ  Gÿ¾s´p@¬À·Á…ÒbÀ  œG±×ho@¬À·Á…ÒbÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           Gÿ¾s´p@¬À·Á…ÒbÀ  œG±×ho@ºíi_uÒ`À  œG±×ho@¬À·Á…ÒbÀ  -DTû!ù¿	  -DTû!ù?
+  —nƒ 0@           œG±×ho@ºíi_uÒ`À  ªtc¹Æhm@¬À·Á…ÒbÀ  œG±×ho@¬À·Á…ÒbÀ  -DTû!ù¿	        Ğ¼
+  —nƒ 0@           ªtc¹Æhm@¬À·Á…ÒbÀ  œG±×ho@“$–ÒdÀ  œG±×ho@¬À·Á…ÒbÀ  -DTû!ù¿	  -DTû!ù¿
+  —nƒ 0@         4 0 /  ÿÿÿÿ       œG±×ho@Ğmr	z,SÀ  Gÿ¾s´p@Ø­‰²XNÀ  œG±×ho@Ø­‰²XNÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           Gÿ¾s´p@Ø­‰²XNÀ  œG±×ho@Dv qXFÀ  œG±×ho@Ø­‰²XNÀ  -DTû!ù¿	  -DTû!ù?
+  —nƒ 0@           œG±×ho@Dv qXFÀ  ªtc¹Æhm@Ø­‰²XNÀ  œG±×ho@Ú­‰²XNÀ  -DTû!ù¿	        Ğ¼
+  —nƒ 0@           ªtc¹Æhm@Ø­‰²XNÀ  œG±×ho@Ğmr	z,SÀ  œG±×ho@Ø­‰²XNÀ  -DTû!ù¿	  -DTû!ù¿
+  —nƒ 0@         4 0 /  ÿÿÿÿ       œG±×ho@àÅ)©Áa*@  Gÿ¾s´p@€zçc1=@  œG±×ho@€zçc1=@  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           Gÿ¾s´p@€zçc1=@  œG±×ho@	¹|ó˜F@  œG±×ho@€zçc1=@  -DTû!ù¿	  -DTû!ù?
+  —nƒ 0@           œG±×ho@	¹|ó˜F@  ªtc¹Æhm@€zçc1=@  œG±×ho@|zçc1=@  -DTû!ù¿	        Ğ¼
+  —nƒ 0@           ªtc¹Æhm@€zçc1=@  œG±×ho@àÅ)©Áa*@  œG±×ho@€zçc1=@  -DTû!ù¿	  -DTû!ù¿
+  —nƒ 0@         4 0 /  ÿÿÿÿ        }×
+<@ôS›=‰¦yÀ  H
+£KF@{jt¦xÀ   }×
+<@{jt¦xÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           H
+£KF@{jt¦xÀ   }×
+<@MÛx¦wÀ   }×
+<@{jt¦xÀ  -DTû!ù¿	  -DTû!ù?
+  Œ—nƒ 0@            }×
+<@MÛx¦wÀ  àÊÑğ!;(@{jt¦xÀ   }×
+<@{jt¦xÀ  -DTû!ù¿	          
+  —nƒ 0@           àÊÑğ!;(@{jt¦xÀ   }×
+<@ôS›=‰¦yÀ   }×
+<@{jt¦xÀ  -DTû!ù¿	  -DTû!ù¿
+  Œ—nƒ 0@         4 0 /  ÿÿÿÿ       ØSfÛ­wYÀ·¬xÀ  ô­ÊwUÀ>3å[¤wÀ  ØSfÛ­wYÀ>3å[¤wÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           ô­ÊwUÀ>3å[¤wÀ  ØSfÛ­wYÀÅI¾*œvÀ  ØSfÛ­wYÀ>3å[¤wÀ  -DTû!ù¿	  -DTû!ù?
+  —nƒ 0@           ØSfÛ­wYÀÅI¾*œvÀ  ¼ù Îw]À>3å[¤wÀ  ØSfÛ­wYÀ>3å[¤wÀ  -DTû!ù¿	          
+  —nƒ 0@           ¼ù Îw]À>3å[¤wÀ  ØSfÛ­wYÀ·¬xÀ  ØSfÛ­wYÀ>3å[¤wÀ  -DTû!ù¿	  -DTû!ù¿
+  —nƒ 0@         4 0 /  ÿÿÿÿ       àdjş‡ÔdÀ@újjüívÀ  î‘œwÔbÀÈD9ôíuÀ  àdjş‡ÔdÀÈD9ôíuÀ  -DTû!ù¿	  -DTû!	@
+  —nƒ 0@           î‘œwÔbÀÈD9ôíuÀ  àdjş‡ÔdÀO'ìítÀ  àdjş‡ÔdÀÈD9ôíuÀ  -DTû!ù¿	  -DTû!ù?
+  Œ—nƒ 0@           àdjş‡ÔdÀO'ìítÀ  Ò7¸`˜ÔfÀÈD9ôíuÀ  àdjş‡ÔdÀÈD9ôíuÀ  -DTû!ù¿	          
+  —nƒ 0@           Ò7¸`˜ÔfÀÈD9ôíuÀ  àdjş‡ÔdÀ@újjüívÀ  àdjş‡ÔdÀÈD9ôíuÀ  -DTû!ù¿	  -DTû!ù¿
+  Œ—nƒ 0@         4 0 /  ÿÿÿÿ       fïxÒcÙi@*§¼[R)vÀ  WÂÆ4tÙk@²½•*J)uÀ  fïxÒcÙi@²½•*J)uÀ  -DTû!ù¿	  -DTû!	@
+  Œ—nƒ 0@           WÂÆ4tÙk@²½•*J)uÀ  fïxÒcÙi@9ÔnùA)tÀ  fïxÒcÙi@²½•*J)uÀ  -DTû!ù¿	  -DTû!ù?
+  Œ—nƒ 0@           fïxÒcÙi@9ÔnùA)tÀ  t+pSÙg@²½•*J)uÀ  fïxÒcÙi@²½•*J)uÀ  -DTû!ù¿	          
+  Œ—nƒ 0@           t+pSÙg@²½•*J)uÀ  fïxÒcÙi@*§¼[R)vÀ  fïxÒcÙi@²½•*J)uÀ  -DTû!ù¿	  -DTû!ù¿
+  Œ—nƒ 0@         4 0 /  ÿÿÿÿ       œG±×ho@Lß¼sêÄY@  Fÿ¾s´p@,…X8Å]@  œG±×ho@,…X8Å]@  -DTû!ù¿	  -DTû!	@
+  €—nƒ 0@           Fÿ¾s´p@,…X8Å]@  œG±×ho@†zş•â`@  œG±×ho@,…X8Å]@  -DTû!ù¿	  -DTû!ù?
+  €—nƒ 0@           œG±×ho@†zş•â`@  ¬tc¹Æhm@,…X8Å]@  œG±×ho@+…X8Å]@  -DTû!ù¿	        Ğ¼
+  €—nƒ 0@           ¬tc¹Æhm@,…X8Å]@  œG±×ho@Lß¼sêÄY@  œG±×ho@,…X8Å]@  -DTû!ù¿	  -DTû!ù¿
+  €—nƒ 0@         4 0 /  ÿÿÿÿ       œG±×ho@êB*YÎh@  Fÿ¾s´p@Úx»Şj@  œG±×ho@Úx»Şj@  -DTû!ù¿	  -DTû!	@
+  €—nƒ 0@           Fÿ¾s´p@Úx»Şj@  œG±×ho@ÊèÅïl@  œG±×ho@Úx»Şj@  -DTû!ù¿	  -DTû!ù?
+  €—nƒ 0@           œG±×ho@ÊèÅïl@  ¬tc¹Æhm@Úx»Şj@  œG±×ho@Úx»Şj@  -DTû!ù¿	        Ğ¼
+  €—nƒ 0@           ¬tc¹Æhm@Úx»Şj@  œG±×ho@êB*YÎh@  œG±×ho@Úx»Şj@  -DTû!ù¿	  -DTû!ù¿
+  €—nƒ 0@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    ×Á{r@  {J‹éoÀ     #   $   0          1                4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 œG±×ho@ 4 ‡nwÑ!q@ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 ¢¶^5tn@ 4 í€Ò¤ApÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 è»ïs—ŒBÀ 4 .?­¯\yÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 `—E£¦[@ 4 ×‹ ÓüyÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 œG±×ho@ 4 “$–ÒdÀ 4     # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 œG±×ho@ 4 Ğmr	z,SÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 œG±×ho@ 4 àÅ)©Áa*@ 4 
+   # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 }×
+<@ 4 ôS›=‰¦yÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 ØSfÛ­wYÀ 4 ·¬xÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 àdjş‡ÔdÀ 4 AújjüívÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 fïxÒcÙi@ 4 +§¼[R)vÀ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 œG±×ho@ 4 Lß¼sêÄY@ 4    # 4  $ 4  0 4         1 4               4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 œG±×ho@ 4 êB*YÎh@ 4 	   # 4  $ 4  0 4         1 4                   %  š™™™™96@·ÂhDG‰@ ™ 0 /  ÿÿÿÿ       <‹›h‰ 0@ĞÌÌÌÌCÀ  ÀÀUŞ<.@àÆÅ•Ö@À  š™™™™96À·ÂhDG‰À  µ­kiÕÒ¿	          
+  ÈáAiÈ             ÀÀUŞ<.@àÆÅ•Ö@À  ğÅ<ïÿ(@Àsy°Î<À  š™™™™96À·ÂhDG‰À  |õìÓqá¿	          
+  ÈáAiÈ             ğÅ<ïÿ(@Àsy°Î<À  0[N$î!@ |“ ˆw9À  š™™™™96À·ÂhDG‰À  
+.Lcê¿	  lıÚ‘È  
+  ÈáAiÈ             0[N$î!@ |“ ˆw9À  ÈíÖ¤@ Nì½Ò[7À  š™™™™96À·ÂhDG‰À  ÇƒK¨Œªñ¿	  lıÚ‘È  
+  ÈáAiÈ             ÈíÖ¤@ Nì½Ò[7À  €Ûh oĞ?`„7ÑR£6À  š™™™™96À·ÂhDG‰À  Éú!ŒÂšö¿	  lıÚ‘È  
+  ÈáAiÈ             €Ûh oĞ?`„7ÑR£6À  XùßövÀ Nì½Ò[7À  š™™™™96À·ÂhDG‰À  g_f4©û¿	  lıÚ‘È  
+  ÈáAiÈ             XùßövÀ Nì½Ò[7À  xÍG4jæ À |“ ˆw9À  š™™™™96À·ÂhDG‰À  5k µL À	  lıÚ‘È  
+  ÈáAiÈ             xÍG4jæ À |“ ˆw9À  786ŸØ÷'ÀÀsy°Î<À  š™™™™96À·ÂhDG‰À  –!B"ŸÀ	  lıÚ‘È  
+  ÈáAiÈ             786ŸØ÷'ÀÀsy°Î<À  “¹eÇ4-ÀàÆÅ•Ö@À  š™™™™96À·ÂhDG‰À  …Y†ÅÀ	  lıÚ‘È  
+  ÈáAiÈ             “¹eÇ4-ÀàÆÅ•Ö@À  ^O˜ğ}0ÀĞÌÌÌÌCÀ  š™™™™96À·ÂhDG‰À  AV'KÇÀ	  lıÚ‘È  
+  ÈáAiÈ             ^O˜ğ}0ÀĞÌÌÌÌCÀ  š™™™™96ÀĞÌÌÌÌCÀ  š™™™™96À·ÂhDG‰À  -DTû!ù¿	  lıÚ‘È  
+                     š™™™™96ÀĞÌÌÌÌCÀ  š™™™™96ÀĞÌÌÌÌC@  š™™™™96À·ÂhDG‰À          	  lıÚ‘È  
+                     š™™™™96ÀĞÌÌÌÌC@  š™™™™96@ĞÌÌÌÌC@  š™™™™96À·ÂhDG‰À  -DTû!ù?	   WÛø3v
+                     š™™™™96@ĞÌÌÌÌC@  š™™™™96@ĞÌÌÌÌCÀ  š™™™™96À·ÂhDG‰À  -DTû!	@	  lıÚ‘È  
+                     š™™™™96@ĞÌÌÌÌCÀ  <‹›h‰ 0@ĞÌÌÌÌCÀ  š™™™™96À·ÂhDG‰À  -DTû!ù¿	  lıÚ‘È  
+                    R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    Ä[×jnN%@  ¥k|I;À      #   $   0          1                    %  ¨½[Ã<SÀM5íï2À [ 0 /  ÿÿÿÿ       Û8ğöï_@óş¢Ø¡LÀ  ÏÙp#e@ÔC¤<kXÀ  ¨½[Ã<S@M5íï2@  –73|Ù@	   …=õd(
+  0Â•Iş             ÏÙp#e@ÔC¤<kXÀ  P§UÄÎ‹'ÀÔC¤<kXÀ  ¨½[Ã<S@M5íï2@  -DTû!ù¿	  l-ÃSã  
+                     P§UÄÎ‹'ÀÔC¤<kXÀ  ğ‹AİéocÀUW‰ÏÜ5?@  ¨½[Ã<S@M5íï2@  èíØpoßê¿	   ÂQã  
+                     ğ‹AİéocÀUW‰ÏÜ5?@  û\ü? FdÀnq8ƒ9T@  ä›¦=ğA`ÀÜ^¹{¬ÉM@  A†"’ƒö?	  TX†ÙHÀ
+  ÍÌÌÌÌC@           û\ü? FdÀnq8ƒ9T@  òŸ3áÆ\À¢h§ë?§W@  ä›¦=ğA`ÀÜ^¹{¬ÉM@  A†"’ƒö?	  ì*ê ğ¿
+  ÍÌÌÌÌC@           òŸ3áÆ\À¢h§ë?§W@  ¨½[Ã<S@õf7§Ğ+)@  ¨½[Ã<S@M5íï2@  H¦ Œl—ÿ?	  l-ÃSã  
+                     ¨½[Ã<S@õf7§Ğ+)@  ¨½[Ã<S@óş¢Ø¡LÀ  ¨½[Ã<S@M5íï2@  -DTû!	@	  l-ÃSã  
+                     ¨½[Ã<S@óş¢Ø¡LÀ  Û8ğöï_@óş¢Ø¡LÀ  ¨½[Ã<S@M5íï2@  -DTû!ù?	  l-ÃSã  
+                   4 0 /  ÿÿÿÿ       ä›¦=ğA`ÀÜ^¹{¬İC@  È7M{à[ÀÜ^¹{¬ÉM@  ä›¦=ğA`ÀÜ^¹{¬ÉM@  -DTû!ù¿	  -DTû!	@
+       Ø3@           È7M{à[ÀÜ^¹{¬ÉM@  ä›¦=ğA`Àn¯Ü=ÖÚS@  ä›¦=ğA`ÀÜ^¹{¬ÉM@  -DTû!ù¿	  -DTû!ù?
+       Ø3@           ä›¦=ğA`Àn¯Ü=ÖÚS@  ä›¦=ğ¼bÀÛ^¹{¬ÉM@  ä›¦=ğA`ÀÜ^¹{¬ÉM@  -DTû!ù¿	          
+       Ø3@           ä›¦=ğ¼bÀÛ^¹{¬ÉM@  ä›¦=ğA`ÀÜ^¹{¬İC@  ä›¦=ğA`ÀÜ^¹{¬ÉM@  -DTû!ù¿	  -DTû!ù¿
+       Ø3@          R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    Û8ğöï_@  óş¢Ø¡LÀ     #   $   0          1                4 R¸…ëQ@ 4 R¸…ëQ@ 4     4     4 ÿÿÿÿ 4  4 ä›¦=ğA`À 4 Ü^¹{¬İC@ 4     # 4  $ 4  0 4         1 4                   %  j¢<ä7’lÀ         ä 0 /  ÿÿÿÿ       ÌÌÌÌÌS@¨ÆK7‰)lÀ  ÌÌÌÌÌSÀ¨ÆK7‰)lÀ  j¢<ä7’l@(         -DTû!ù¿	  l=0°  
+                     ÌÌÌÌÌSÀ¨ÆK7‰)lÀ  ÌÌÌÌÌSÀ¨ÆK7‰)l@  j¢<ä7’l@(                 	   €2·íCa
+  ¨ıÿÿ               ÌÌÌÌÌSÀ¨ÆK7‰)l@  ÌÌÌÌÌS@¨ÆK7‰)l@  j¢<ä7’l@(         -DTû!ù?	  l=0°  
+                     ÌÌÌÌÌS@¨ÆK7‰)l@  ÌÌÌÌÌS@©$i9îe@  j¢<ä7’l@(         -DTû!	@	  l=0°  
+                     ÌÌÌÌÌS@©$i9îe@  Pâ,RÌÀR@Ñ<9p²ze@  j¢<ä7’l@(         ıŸü14–À	  l=0°  
+                     Pâ,RÌÀR@Ñ<9p²ze@  Hªr~#N@ğ*åaƒe@  j¢<ä7’l@(         "ƒßŞmü¿	  l=0°  
+                     Hªr~#N@ğ*åaƒe@  t\…{‚qL@2E¶|?7c@  j¢<ä7’l@(         $yY¶zÀ	  l=0°  
+                     t\…{‚qL@2E¶|?7c@  Pş¬c,E@ß ˆxb@  j¢<ä7’l@(         Mè´ç}5ş¿	  l=0°  
+                     Pş¬c,E@ß ˆxb@  tŸ<\qD@³Õ£xş¶`@  j¢<ä7’l@(          j²:Ó]À	  l=0°  
+                     tŸ<\qD@³Õ£xş¶`@  ğƒ{‰ö:@ş°–×_@  j¢<ä7’l@(         ªıfğıÿ¿	  l=0°  
+                     ğƒ{‰ö:@ş°–×_@  À"~3;@?Í.·²\@  j¢<ä7’l@(         Şê~éS	@	  l=0°  
+                     À"~3;@?Í.·²\@   ¢Øt~$,@.k¹ZZ@  j¢<ä7’l@(         ü]â À	  l=0°  
+                      ¢Øt~$,@.k¹ZZ@  €–RğD0@çº¢ôÂ@V@  j¢<ä7’l@(         Ã,%e„@	  l=0°  
+                     €–RğD0@çº¢ôÂ@V@  ÀšÅV“¥@À j‹BïS@  j¢<ä7’l@(         1¤ç€-ÆÀ	  l=0°  
+                     ÀšÅV“¥@À j‹BïS@   ®IÀ@a¶Ôh7P@  j¢<ä7’l@(         R×Ëà´:@	  l=0°  
+                      ®IÀ@a¶Ôh7P@   œB¬À½í ,&K@  j¢<ä7’l@(         `3Aı©À	  l=0°  
+                      œB¬À½í ,&K@   œ¹”®©ù?v?§|õC@  j¢<ä7’l@(         ªDr\åV@	  l=0°  
+                      œ¹”®©ù?v?§|õC@  Ğuú¶r À«•îÔ/<@  j¢<ä7’l@(         ¢÷™‰ÌÀ	  l=0°  
+                     Ğuú¶r À«•îÔ/<@   ‘ˆ¼Êö¿O–#jşó,@  j¢<ä7’l@(         İcØs@	  l=0°  
+                      ‘ˆ¼Êö¿O–#jşó,@   s§nÇ#À¼	¢û?  j¢<ä7’l@(         ½ŞòœqÀ	  l=0°  
+                      s§nÇ#À¼	¢û?  €Z})ÇÂù¿Ua°“I&À  j¢<ä7’l@(         Œ½SF@	  l=0°  
+                     €Z})ÇÂù¿Ua°“I&À  ğy˜Ò7!À"¤jÓ
+Á8À  j¢<ä7’l@(         ÕK’kUÀ	  l=0°  
+                     ğy˜Ò7!À"¤jÓ
+Á8À  €¦áÆóÊğ?çåâ'PBÀ  j¢<ä7’l@(         ãReÏv«@	  l=0°  
+                     €¦áÆóÊğ?çåâ'PBÀ  ÀæÎ?“Àù]ßæğvIÀ  j¢<ä7’l@(         /é¥;9À	  l=0°  
+                     ÀæÎ?“Àù]ßæğvIÀ  `£=Bó@ªcøÓNÀ  j¢<ä7’l@(         ¹qK§Ç@	  l=0°  
+                     `£=Bó@ªcøÓNÀ   RáÃ}˜@4Â1dSÀ  j¢<ä7’l@(         Æ˜şš
+À	  l=0°  
+                      RáÃ}˜@4Â1dSÀ  @Ş|g×y-@8øå¼{UÀ  j¢<ä7’l@(         ‰z±Æ×ã@	  l=0°  
+                     @Ş|g×y-@8øå¼{UÀ  °.K'Q+)@Àıÿ†ĞDYÀ  j¢<ä7’l@(         UXÚ À	  l=0°  
+                     °.K'Q+)@Àıÿ†ĞDYÀ  ğŒ÷û˜9@/Æg‚FH[À  j¢<ä7’l@(         'dYB @	  l=0°  
+                     ğŒ÷û˜9@/Æg‚FH[À  €fİ-³#9@EòoyG_À  j¢<ä7’l@(         *2²£©äÀ	  l=0°  
+                     €fİ-³#9@EòoyG_À  (ù]M¨{C@Ñh_`À  j¢<ä7’l@(         òh ¾8 @	  l=0°  
+                     (ù]M¨{C@Ñh_`À  (L·£ºD@ü›}	¨GbÀ  j¢<ä7’l@(         Nµ}€}{@	  l=0°  
+                     (L·£ºD@ü›}	¨GbÀ  Ü—Ú"ÎVK@óa'(çbÀ  j¢<ä7’l@(         ±MsÒpş?	  l=0°  
+                     Ü—Ú"ÎVK@óa'(çbÀ  bøÙŸÍL@öjÔÇdÀ  j¢<ä7’l@(         “ù$ü­—@	  l=0°  
+                     bøÙŸÍL@öjÔÇdÀ  ôÅÌÌÌS@g»+XNMeÀ  j¢<ä7’l@(         Ût¼á©ü?	   /
+°  
+                     ôÅÌÌÌS@g»+XNMeÀ  ÌÌÌÌÌS@¨ÆK7‰)lÀ  j¢<ä7’l@(         )DTû!	@	  l=0°  
+                    R¸…ëQ@  R¸…ëQ@            ÿÿÿÿ    ÌÌÌÌÌS@  ¨ÆK7‰)lÀ      #   $   0          1                    
